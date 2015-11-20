@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"ApplySyntax",
+		"Better CoffeeScript",
+		"CoffeeCompile",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Gist",
+		"Git",
+		"HTMLBeautify",
+		"JsFormat",
+		"LiveReload",
+		"nginx",
+		"Package Control",
+		"Pretty JSON",
+		"Pretty YAML",
+		"RAML Syntax Highlighter",
+		"Ruby on Rails snippets",
+		"SCSS",
+		"Sublime-KnockoutJS-Snippets"
+	]
+}
